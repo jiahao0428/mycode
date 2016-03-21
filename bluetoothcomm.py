@@ -1,7 +1,8 @@
 #!/usr/bin/python
 
 # Requirements:
-# sudo aptitude install python-bluetooth
+# sudo apt-get install python-dev
+# sudo pip install pybluez
 
 
 import bluetooth
